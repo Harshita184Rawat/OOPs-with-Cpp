@@ -11,7 +11,7 @@ class base
 class Derived1: public base
 {
     public:
-        Derived1(){id = id+2; }
+        Derived1(){id = id+2;}
     
 };
 
