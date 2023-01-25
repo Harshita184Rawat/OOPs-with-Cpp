@@ -43,6 +43,5 @@ int main()
     s1.print_reg();
     s2.print_id();
     s2.print_name();
-    s2.print_reg();
     return 0;
 }
