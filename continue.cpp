@@ -1,3 +1,4 @@
+// Program to print all the numbers from 1 to 100 which are not divisble by 3. 
 #include<iostream>
 using namespace std;
 
